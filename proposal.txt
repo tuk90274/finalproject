@@ -1,0 +1,53 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Temple Student Planner
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A website that acts as an organization planner for students. They can input links into their very own calendar and set reminders for assignments that they have to
+complete before a certain time. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+Essentially, the idea is to get students to be better prepared and organized amidst the new virtual learning environment. Our website
+would act as a virtual planner for students to set reminders for their assignment due dates, but also act as a tool for them to
+input links, notes, or even implement a Google tool for research purposes. In other words, we'd add a search bar that would be directly linked to Google
+if, for example, a student would need to search for a word or any other matter that can be printed into our website under their notes sheet for class.
+We would have various pages spread out across the website that would include a calendar, notes sheet, and a Google search tool for students to explore and 
+take advantage of if they need to. We'd offer an input directly into the calendar for students to add important due dates for their assignment, and so forth.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Alan Saji, tuj93905@temple.edu , Chong Li
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+I will be able to code in a new language that I haven't explored before and get more comfortable with HTML, as well as being able to create a functional, user-friendly website.
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Before the final project's deadline, I think I will be able to implement my own, brief Javascript that I can use for my website. 
+
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+I hope to be able to actually publish the website and have all the pages directed to one another. I hope that the codes from these other new languages
+that I'll be using works, and I hope that everything overall remains interactive and functional. 
+
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+With the help of my classmate Alan Saji, our next step would be to start on a homepage. We will need to experiment with HTML, CSS, and even Javascript to 
+create a functional, virtual student planner. We will acquire new skills while exploring various coding languages and we would need to research on 
+how we could create a personal, student calendar that's password locked for each unique user to see their own notes and schedule. While dividing up the work,
+we would work separately on each page. But we would work together and help one another on figuring out how to create a personal calendar that would offer users
+to input notes, links, and deadlines to their very own schedule. 
