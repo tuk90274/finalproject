@@ -1,0 +1,31 @@
+# Status Report
+
+#### Your name
+
+Zohar Moshnyager
+
+#### Your section leader's name
+
+Alan Saji
+
+#### Project title
+
+Temple Student Planner (web)
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+We've created a login page and worked on the "Notes" page, where the user could input notes into their planner. We've also created a menu where the
+student can check off their "notes" and assignments in which they've completed.
+
+#### What have you not done for your project yet?
+
+We have to redo our main page and link all the pages together to the index. 
+
+#### What problems, if any, have you encountered?
+
+The main page's template wasn't correctly published. So, we have to redo the template
+and link all the pages together again.
